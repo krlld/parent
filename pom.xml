@@ -14,10 +14,4 @@
     <properties>
         <java.version>11</java.version>
     </properties>
-    <scm>
-        <connection>scm:git:git://github.com/naturalprogrammer/spring-lemon.git</connection>
-        <developerConnection>scm:git:git://github.com/naturalprogrammer/spring-lemon.git</developerConnection>
-        <url>https://github.com/naturalprogrammer/spring-lemon</url>
-        <tag>HEAD</tag>
-    </scm>
 </project>
